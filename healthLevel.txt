@@ -1,0 +1,4 @@
+underweight < 18.5
+normal => 18.5 && < 25
+overweight => 25 && < 30
+obese > 30
